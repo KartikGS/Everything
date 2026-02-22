@@ -1,6 +1,6 @@
 # General Principles (Cross-Project)
 
-These principles are intended to work across projects, not just LLM Journey.
+These principles are intended to work across projects.
 
 ## 1) Clarify Before Building
 - Resolve ambiguity before implementation.
